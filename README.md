@@ -61,3 +61,6 @@ now the liturgical calendar scrolls to the actual day setted in the navigator
 
 11.03.2024 (0.9.3)
 fixed ninth hour's antiphon
+
+27.09.2024
+Added text to speech
